@@ -1,7 +1,8 @@
 
 
 function posts(state = [], action){
-	console.log(`state: ${state} and action: ${action}`);
+	console.log(`The post will change`);
+	// console.log(`state: ${state} and action: ${action}`);
 	return state;
 }
 
